@@ -1,1 +1,1 @@
-RUN wget https://github.com/samtools/samtools/releases/download/1.2/samtools-1.2.tar.bz2
+RUN wget https://github.com/radha7696/myfirstgithubrepo/blob/a7fdd6d3aa446d0bc9bfe6bcbf85c4951041906a/New-year-Teams-card1.png
